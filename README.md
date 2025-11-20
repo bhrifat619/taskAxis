@@ -1,4 +1,4 @@
-# Task Axis 🚀
+# Task Axis 
 
 **Task Axis** is a full-stack task management platform where users can create, edit, delete, and bid on tasks. It is built with modern web technologies to provide a smooth, interactive, and responsive experience.
 
